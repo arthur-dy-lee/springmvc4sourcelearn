@@ -181,6 +181,14 @@
             <version>4.1.19.Final</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.53</version>
+        </dependency>
+
+
         <!-- spring support jason by jackson -->
         <!--<dependency>
             <groupId>org.codehaus.jackson</groupId>
